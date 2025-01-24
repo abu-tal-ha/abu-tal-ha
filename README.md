@@ -1,4 +1,4 @@
-![logo](https://github.com/abu-tal-ha/abu-tal-ha/blob/main/462585358_555870186973922_2959612722155689237_n.jpg)
+![logo](https://github.com/abu-tal-ha/abu-tal-ha/blob/main/https://i.ibb.co.com/5FdwRVx/Whats-App-Image-2025-01-24-at-20-06-16-c5451ebd.jpg)
 
 <h1 align="center">Assalamualaikum 👋, I'm Abu Talha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
