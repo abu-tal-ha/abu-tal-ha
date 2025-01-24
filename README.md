@@ -1,4 +1,4 @@
-![logo](https://github.com/abu-tal-ha/abu-tal-ha/blob/main/)
+![logo](https://github.com/abu-tal-ha/abu-tal-ha/blob/main/pngtree-abstract-bg-image_914283.png)
 
 <h1 align="center">Assalamualaikum 👋, I'm Abu Talha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
