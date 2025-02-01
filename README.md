@@ -2,7 +2,9 @@
 ![Front-end Developer](https://media.licdn.com/dms/image/v2/D5616AQHe4knpGNWr0A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737736446843?e=1743638400&v=beta&t=9PD7N99ShPZ7swFYmHCFJMaIJkG-4Qmg_glO0yy6E1k)
 
 ## Hi there 👋, I'm Abu Talha
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2CThere!+I+am+a+Front-end+Developer;and+1+years+experience+;and+MERN-stack+Developer)](https://git.io/typing-svg)
 ### Front-end Developer
+
 
 Passionate about combining general studies and front-end development. Eager to apply my
 skills in software development and communication to contribute positively in a dynamic and
