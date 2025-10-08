@@ -1,5 +1,5 @@
 
-![Front-end Developer]((https://www.linkedin.com/in/abu-talha-/overlay/background-image/))
+![Front-end Developer](https://www.linkedin.com/in/abu-talha-/overlay/background-image/))
 
 ## Hi there 👋, I'm Abu Talha
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2CThere!+I+am+a+Front-end+Developer;and+1+years+experience+;and+MERN-stack+Developer)](https://github.com/abu-tal-ha)
